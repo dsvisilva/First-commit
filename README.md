@@ -15,6 +15,11 @@ A página apresenta um layout moderno com:
 - CSS3
 - Fonte: [Poppins - Google Fonts](https://fonts.google.com/specimen/Poppins)
 
+## 🚀 Como executar
+
+Clone o repositório:
+git clone https://github.com/dsvisilva/Second-Module---CSS-basic.git
+
 ## 📱 Responsividade
 
 O projeto possui media queries para garantir boa visualização em telas menores (até 600px).
