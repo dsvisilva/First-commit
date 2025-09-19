@@ -16,7 +16,6 @@ A página apresenta um layout moderno com:
 - Fonte: [Poppins - Google Fonts](https://fonts.google.com/specimen/Poppins)
 
 ## 🚀 Como executar
-
 Clone o repositório:
 git clone https://github.com/dsvisilva/Second-Module---CSS-basic.git
 
